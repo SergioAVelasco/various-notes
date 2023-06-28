@@ -1,2 +1,2 @@
 # various-notes
-Varoius notes
+Notas de varios lenguajes ~ 
